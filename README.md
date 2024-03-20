@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular, .Net MVC**
 
-- 📫 How to reach me **csronly4@gmail.com**
+- 📫 Reach Me at **csronly4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
