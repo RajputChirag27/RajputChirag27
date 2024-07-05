@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at **Shaligram Infotech**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Node JS and Angular**
 
-- 💬 Ask me about **Node JS**
+- 💬 Ask me about **Node JS and Angular**
 
 - 📫 Reach Me at **csronly4@gmail.com**
 
