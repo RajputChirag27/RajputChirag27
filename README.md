@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajputchirag27" alt="rajputchirag27" /></a> </p>
 
-- 🔭 I’m currently working at **Shaligram Infotech**
+- 🔭 I’m currently working at **Tata Consultancy Services**
 
-- 🌱 I’m currently learning **Node JS and Angular**
+- 🌱 I’m currently learning **Full Stack Developer/ with AI and Cloud Certified**
 
-- 💬 Ask me about **Node JS and Angular**
+- 💬 Ask me about **Javascript/React/Python/Node JS/Cloud/AI**
 
 - 📫 Reach Me at **csronly4@gmail.com**
 
